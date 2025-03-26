@@ -1,4 +1,10 @@
+<!--
 ## Hi there 👋
+-->
+
+# 👋 Hi there, I'm Feng Sidi
+
+Now I'm learning **ysyx** and **2025 春夏季开源操作系统训练营**
 
 <!--
 **Forslate/Forslate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+👨💻 🛠️🚧 📫 🎓
 -->
