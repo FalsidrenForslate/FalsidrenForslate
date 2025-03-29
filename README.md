@@ -6,6 +6,8 @@
 
 Now I'm learning **ysyx** and **2025 春夏季开源操作系统训练营**
 
+📫 Contact me: fonstie@outlook.com
+
 *2025s-rustlings-Forslate*:[grade](https://github.com/LearningOS/2025s-rustling-Forslate)
 
 <!--
